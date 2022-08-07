@@ -59,3 +59,10 @@
 
 ```"프론트 엔드 개발자에게 필수적인 C언어인 자바스크립트에 대해 개괄적인 이해를 하고자 수강함"```
 
+1. [7월 28일](https://github.com/ThovenhairWorrior/7-28-/blob/main/README.md)
+2. [8월 1일](https://github.com/ThovenhairWorrior/8-1-/blob/main/README.md)
+3. [8월 2일](https://github.com/ThovenhairWorrior/8-2-/blob/main/README.md)
+4. [8월 3일](https://github.com/ThovenhairWorrior/8-3-/blob/main/README.md)
+5. [8월 4일](https://github.com/ThovenhairWorrior/8-4-/blob/main/README.md)
+6. [8월 5일](https://github.com/ThovenhairWorrior/8-5-/blob/main/README.md)
+
