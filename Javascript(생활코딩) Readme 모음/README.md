@@ -1,0 +1,19 @@
+# 7월 28일 학습내용
+생활코딩 자바스크립트 (3~4강) 수강 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>생활코딩 7월 28일 학습</title>
+</head>
+<body>
+  <script>
+      document.write('hello world!');
+  </script>
+ <input type = "button" value = "hi" onclick = "alert('hi')">
+ <input type = "text" onchange="alert('changed')">
+ <input type = "text" onkeydown="alert('key down!')">
+
+</body>
+</html>
