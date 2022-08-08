@@ -65,4 +65,5 @@
 4. [8월 3일](https://github.com/ThovenhairWorrior/8-3-/blob/main/README.md)
 5. [8월 4일](https://github.com/ThovenhairWorrior/8-4-/blob/main/README.md)
 6. [8월 5일](https://github.com/ThovenhairWorrior/8-5-/blob/main/README.md)
+7. [8월 8일(배열,반복문 활용, 함수,객체 정의)](https://github.com/ThovenhairWorrior/8-8-/blob/main/README.md)
 
