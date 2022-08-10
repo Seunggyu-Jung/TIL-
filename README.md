@@ -67,3 +67,4 @@
 6. [8월 5일](https://github.com/ThovenhairWorrior/8-5-/blob/main/README.md)
 7. [8월 8일(배열,반복문 활용, 함수,객체 정의)](https://github.com/ThovenhairWorrior/8-8-/blob/main/README.md)
 8. [8월 9일(객체 기초 문법)](https://github.com/ThovenhairWorrior/8-9-/blob/main/README.md)
+9. [8월 10일(객체와 반복문-for in)](https://github.com/ThovenhairWorrior/TIL-/blob/master/Javascript(%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9)%20Readme%20%EB%AA%A8%EC%9D%8C/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9(31%EA%B0%95).md)
