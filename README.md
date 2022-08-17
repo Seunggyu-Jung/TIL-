@@ -13,8 +13,8 @@
 5. [7강 함수](https://github.com/ThovenhairWorrior/7-1-/blob/main/README.md)
 6. [8강 입출력 포멧](https://github.com/ThovenhairWorrior/7-8-/blob/main/README.md)
 7. [9강 클래스](https://github.com/ThovenhairWorrior/7-10-/blob/main/README.md)
-8. [10강 예외처리]()
-9. 11강 모듈
+8. [10강 예외처리](https://github.com/ThovenhairWorrior/7-15-/blob/main/README.md)
+9. [11강 모듈](https://github.com/ThovenhairWorrior/7-17-/blob/main/README.md)
 10. 총평 및 소감
 
 
