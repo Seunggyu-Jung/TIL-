@@ -8,13 +8,13 @@
 
 1. [3강 숫자열](https://github.com/ThovenhairWorrior/TIL-/blob/master/python(%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9)%20readme%20%EB%AA%A8%EC%9D%8C/%EC%88%AB%EC%9E%90%EC%B2%98%EB%A6%AC.md)
 2. [4강 문자열](https://github.com/ThovenhairWorrior/TIL-/blob/master/python(%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9)%20readme%20%EB%AA%A8%EC%9D%8C/%EB%AC%B8%EC%9E%90%EC%97%B4.md)
-3. [5강 리스트](https://github.com/ThovenhairWorrior/6.25-/blob/main/README.md)
-4. [6강 if 가정문](https://github.com/ThovenhairWorrior/6.28-/blob/main/README.md)
-5. [7강 함수](https://github.com/ThovenhairWorrior/7-1-/blob/main/README.md)
-6. [8강 입출력 포멧](https://github.com/ThovenhairWorrior/7-8-/blob/main/README.md)
-7. [9강 클래스](https://github.com/ThovenhairWorrior/7-10-/blob/main/README.md)
-8. [10강 예외처리](https://github.com/ThovenhairWorrior/7-15-/blob/main/README.md)
-9. [11강 모듈](https://github.com/ThovenhairWorrior/7-17-/blob/main/README.md)
+3. [5강 리스트](https://github.com/ThovenhairWorrior/TIL-/blob/master/python(%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9)%20readme%20%EB%AA%A8%EC%9D%8C/%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
+4. [6강 if 가정문](https://github.com/ThovenhairWorrior/TIL-/blob/master/python(%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9)%20readme%20%EB%AA%A8%EC%9D%8C/if%EA%B0%80%EC%A0%95%EB%AC%B8.md)
+5. [7강 함수](https://github.com/ThovenhairWorrior/TIL-/blob/master/python(%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9)%20readme%20%EB%AA%A8%EC%9D%8C/%ED%95%A8%EC%88%98.md)
+6. [8강 입출력 포멧](https://github.com/ThovenhairWorrior/TIL-/blob/master/python(%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9)%20readme%20%EB%AA%A8%EC%9D%8C/%EC%9E%85%EC%B6%9C%EB%A0%A5%20%ED%8F%AC%EB%A9%A7.md)
+7. [9강 클래스](https://github.com/ThovenhairWorrior/TIL-/blob/master/python(%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9)%20readme%20%EB%AA%A8%EC%9D%8C/%ED%81%B4%EB%9E%98%EC%8A%A4.md)
+8. [10강 예외처리](https://github.com/ThovenhairWorrior/TIL-/blob/master/python(%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9)%20readme%20%EB%AA%A8%EC%9D%8C/%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)
+9. [11강 모듈](https://github.com/ThovenhairWorrior/TIL-/blob/master/python(%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9)%20readme%20%EB%AA%A8%EC%9D%8C/%EB%AA%A8%EB%93%88.md)
 10. 총평 및 소감
 
 
@@ -24,9 +24,9 @@
 
 ## [1주차: HTML , CSS , Javascript에 대한 이해](https://github.com/ThovenhairWorrior/7-11-/blob/main/README.md)
 
-## [2주차:](https://github.com/ThovenhairWorrior/7-21-/blob/main/README.md)
+## [2주차: JQuery & API](https://github.com/ThovenhairWorrior/7-21-/blob/main/README.md)
 
-## [3주차:](https://github.com/ThovenhairWorrior/7-25-/blob/main/README.md)
+## [3주차: 웹스크롤링](https://github.com/ThovenhairWorrior/7-25-/blob/main/README.md)
 
 
 
