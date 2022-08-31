@@ -7,7 +7,7 @@
 코딩 학습에 있어 처음 입문한 강의로, 파이썬의 기초적인 문법과 활용, 그리고 퀴즈를 통해 학습을 진행함
 
 1. [3강 숫자열](https://github.com/ThovenhairWorrior/TIL-/blob/master/python(%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9)%20readme%20%EB%AA%A8%EC%9D%8C/%EC%88%AB%EC%9E%90%EC%B2%98%EB%A6%AC.md)
-2. [4강 문자열](https://github.com/ThovenhairWorrior/6-23-/blob/main/README.md)
+2. [4강 문자열](https://github.com/ThovenhairWorrior/TIL-/blob/master/python(%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9)%20readme%20%EB%AA%A8%EC%9D%8C/%EB%AC%B8%EC%9E%90%EC%97%B4.md)
 3. [5강 리스트](https://github.com/ThovenhairWorrior/6.25-/blob/main/README.md)
 4. [6강 if 가정문](https://github.com/ThovenhairWorrior/6.28-/blob/main/README.md)
 5. [7강 함수](https://github.com/ThovenhairWorrior/7-1-/blob/main/README.md)
