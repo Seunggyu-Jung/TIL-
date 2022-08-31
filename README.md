@@ -1,9 +1,10 @@
-# TIL-
+# TIL
+
 2022년 여름방학동안 진행한 코딩 학습 기록
 
 # 1. Python(나도코딩 2020ver)
 
-```"코딩 학습에 있어 처음 입문한 강의로, 파이썬의 기초적인 문법과 활용, 그리고 퀴즈를 통해 학습을 진행함"```
+코딩 학습에 있어 처음 입문한 강의로, 파이썬의 기초적인 문법과 활용, 그리고 퀴즈를 통해 학습을 진행함
 
 1. [3강 숫자열](https://github.com/ThovenhairWorrior/TIL-/blob/master/python(%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9)/3%EA%B0%95%20%EC%88%AB%EC%9E%90%EC%97%B4/README.md)
 2. [4강 문자열](https://github.com/ThovenhairWorrior/6-23-/blob/main/README.md)
@@ -18,6 +19,7 @@
 
 
 # 2. 웹개발 종합강의 수강(스파르타 코딩클럽 2022ver)
+
 진로를 희망하는 웹개발자 및 프론트 엔드에 대해 체험하고 이해하고자 수강함
 
 ## [1주차: HTML , CSS , Javascript에 대한 이해](https://github.com/ThovenhairWorrior/7-11-/blob/main/README.md)
