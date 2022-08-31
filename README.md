@@ -34,17 +34,16 @@
 
 프론트 엔드 개발자에게 필수적인 C언어인 자바스크립트에 대해 개괄적인 이해를 하고자 수강함
 
-1. [7월 28일](https://github.com/ThovenhairWorrior/7-28-/blob/main/README.md)
-2. [8월 1일](https://github.com/ThovenhairWorrior/8-1-/blob/main/README.md)
-3. [8월 2일](https://github.com/ThovenhairWorrior/8-2-/blob/main/README.md)
-4. [8월 3일](https://github.com/ThovenhairWorrior/8-3-/blob/main/README.md)
-5. [8월 4일](https://github.com/ThovenhairWorrior/8-4-/blob/main/README.md)
-6. [8월 5일](https://github.com/ThovenhairWorrior/8-5-/blob/main/README.md)
-7. [8월 8일(배열,반복문 활용, 함수,객체 정의)](https://github.com/ThovenhairWorrior/8-8-/blob/main/README.md)
-8. [8월 9일(객체 기초 문법)](https://github.com/ThovenhairWorrior/8-9-/blob/main/README.md)
-9. [8월 10일(객체와 반복문-for in)](https://github.com/ThovenhairWorrior/TIL-/blob/master/Javascript(%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9)%20Readme%20%EB%AA%A8%EC%9D%8C/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9(31%EA%B0%95).md)
-10. [8월 11일(객체의 활용, 객체프로퍼티와 메소드)](https://github.com/ThovenhairWorrior/8-11-/blob/main/README.md) 
-11. [8월 12일(파일로 쪼개서 정리정돈하기 src = "")](https://github.com/ThovenhairWorrior/8-12-/blob/main/README.md)
+1. [웹 페이지 만들기](https://github.com/ThovenhairWorrior/TIL-/blob/master/Javascript(%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9)%20Readme%20%EB%AA%A8%EC%9D%8C/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9(3%EA%B0%95~4%EA%B0%95).md)
+2. [데이터 타입, 변수, CSS 기초](https://github.com/ThovenhairWorrior/TIL-/blob/master/Javascript(%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9)%20Readme%20%EB%AA%A8%EC%9D%8C/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9(5%EA%B0%95~12%EA%B0%95).md)
+3. [조건문 기본 문법](https://github.com/ThovenhairWorrior/TIL-/blob/master/Javascript(%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9)%20Readme%20%EB%AA%A8%EC%9D%8C/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9(13%EA%B0%95~16%EA%B0%95).md)
+4. [조건문 활용, 리팩토링 중복 제거](https://github.com/ThovenhairWorrior/TIL-/blob/master/Javascript(%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9)%20Readme%20%EB%AA%A8%EC%9D%8C/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9(17%EA%B0%95~19%EA%B0%95).md)
+5. [배열과 반복문, 활용](https://github.com/ThovenhairWorrior/TIL-/blob/master/Javascript(%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9)%20Readme%20%EB%AA%A8%EC%9D%8C/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9(20~22%EA%B0%95).md)
+6. [배열,반복문활용, 함수개념활용](https://github.com/ThovenhairWorrior/TIL-/blob/master/Javascript(%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9)%20Readme%20%EB%AA%A8%EC%9D%8C/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9(23~29%EA%B0%95).md)
+7. [객체 기초 문법](https://github.com/ThovenhairWorrior/TIL-/blob/master/Javascript(%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9)%20Readme%20%EB%AA%A8%EC%9D%8C/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9(30%EA%B0%95).md)
+8. [객체와 반복문-for in](https://github.com/ThovenhairWorrior/TIL-/blob/master/Javascript(%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9)%20Readme%20%EB%AA%A8%EC%9D%8C/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9(31%EA%B0%95).md)
+9. [객체의 활용, 객체프로퍼티와 메소드](https://github.com/ThovenhairWorrior/TIL-/blob/master/Javascript(%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9)%20Readme%20%EB%AA%A8%EC%9D%8C/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9(32~35%EA%B0%95).md) 
+10. [파일로 쪼개서 정리정돈하기 src = ""](https://github.com/ThovenhairWorrior/TIL-/blob/master/Javascript(%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9)%20Readme%20%EB%AA%A8%EC%9D%8C/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9%20(36%EA%B0%95).md)
 
 
 
