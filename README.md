@@ -1,6 +1,5 @@
 # TIL-
-
-```"2022년 여름방학동안 진행한 코딩 학습 기록"```
+2022년 여름방학동안 진행한 코딩 학습 기록
 
 # 1. Python(나도코딩 2020ver)
 
@@ -27,12 +26,11 @@
 
 ## [3주차:](https://github.com/ThovenhairWorrior/7-25-/blob/main/README.md)
 
-## [4주차:]
 
 
 # 3. Javascript(생활코딩 2018ver)
 
-```"프론트 엔드 개발자에게 필수적인 C언어인 자바스크립트에 대해 개괄적인 이해를 하고자 수강함"```
+프론트 엔드 개발자에게 필수적인 C언어인 자바스크립트에 대해 개괄적인 이해를 하고자 수강함
 
 1. [7월 28일](https://github.com/ThovenhairWorrior/7-28-/blob/main/README.md)
 2. [8월 1일](https://github.com/ThovenhairWorrior/8-1-/blob/main/README.md)
